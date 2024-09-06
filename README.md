@@ -23,7 +23,8 @@ Actividad 4 trabajando con listas, tuplas, conjunto y diccionarios.
 - codigo
 - ![image](https://github.com/user-attachments/assets/040614a6-3686-4477-8e75-17c4b70beeb8)
 - resultado
-- ![image](https://github.com/user-attachments/assets/54bbfa91-fd89-49b5-a115-2a3560af50c9)
+- ![image](https://github.com/user-attachments/assets/52d0c1d0-27dc-4313-90a7-47fc7590fcf4)
+
 
 
 
